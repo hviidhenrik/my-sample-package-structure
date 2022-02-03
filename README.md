@@ -17,7 +17,7 @@ Python package, this minimalistic template structure might be useful to you.
 1. Create a new repo on Github using this as a template.
 2. Clone your new repo locally.
 3. Change the name of the 'packagename' directory to match your project.*
-   Also change this name in the import in packagename/config/\_\_init__.py
+   Also change this name in the import in packagename/config/\_\_init__.py and in setup.py
 4. Write your code!
 
 *This directory is sometimes called simply `src`, but this could cause problems if you have other custom-built packages
