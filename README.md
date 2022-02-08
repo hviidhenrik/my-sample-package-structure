@@ -20,13 +20,9 @@ https://github.com/hviidhenrik/my-sample-data-science-structure
 3. Change the names of: 
    - the `importname` directory which holds your source code to match your project e.g., `numpy`, 
      if this was the numpy package.*
-   - the import statement in `importname/config/__init__.py` should be changed to the same 
-     name, e.g., `numpy` for the above example.  
    - `packagename` in setup.py - this is the name of your package and used when installing it in 
      other projects.
-4. Using a Python environment of your choice (like conda or virtualenv), install requirements: 
-   `pip install -r requirements.txt`
-5. Write your code!
+4. Write your code!
 
 *This directory is sometimes called simply `src`, but this could cause problems if you have other custom-built 
 packages using this name as this directory will house your source code and thus be used in imports in other projects.
