@@ -1,5 +1,5 @@
-from importname.config import definitions
+from importname import config
 
 
 def test_path_definitions():
-    definitions.test_path_definitions()
+    config.test_path_definitions()
