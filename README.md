@@ -52,7 +52,7 @@ Project Organization
         ├── __init__.py <- Makes importname a Python module
         ├── config      <- Directory for defitions of paths and other useful stuff
         ├── core.py     <- Core funtionality goes here
-        ├── helpers.py  <- Helpers funtions go here
+        ├── utils.py    <- Utility functions go here
 
 
 
